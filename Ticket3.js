@@ -29,4 +29,3 @@ console.log(mergedEquipment);  // ['Printer', 'Scanner', 'Desk', 'Chair', 'Lamp'
 let sales = [500, 1000, 750, 2000, 1250];
 sales.sort((a, b) => b - a);
 console.log(sales);  // [2000, 1250, 1000, 750, 500]
-
